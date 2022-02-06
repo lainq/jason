@@ -1,0 +1,30 @@
+{
+  "name": "jason",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prettify": "npx prettier . -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavbaburaj/jason.git"
+  },
+  "keywords": [
+    "json",
+    "parser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavbaburaj/jason/issues"
+  },
+  "homepage": "https://github.com/pranavbaburaj/jason#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "typescript": "^4.5.5"
+  }
+}
+
