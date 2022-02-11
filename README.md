@@ -4,6 +4,10 @@
 A simple inefficient and buggy JSON parser written in JavaScript
 </div>
 
+
+> The project is archived 
+
+
 > This JSON parser isn't guaranteed to work properly. Its recommended to use builtin `JSON.parse` instead of this
 
 ### What is Jason
